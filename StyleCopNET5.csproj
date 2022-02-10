@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+  
+	<PropertyGroup>
+	  <CodeAnalysisRuleSet>StyleCopConfig\StyleCop.ruleset</CodeAnalysisRuleSet>
+	</PropertyGroup>
+
+  <ItemGroup>
+	  <AdditionalFiles Include="StyleCopConfig\stylecop.json" Link="stylecop.json" />
+	</ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
