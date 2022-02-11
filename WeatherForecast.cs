@@ -1,6 +1,6 @@
-// This source code (WeatherForecast.cs) is Copyright © M. NURHAD BAROKAH Pte, Ltd..
+// This source code (WeatherForecast.cs) is Copyright © M. NURHAD BAROKAH.
 // You MAY NOT copied, reproduced, published, distributed or transmitted
-// to or stored in any manner without priorwritten consent from M. NURHAD BAROKAH Pte, Ltd..
+// to or stored in any manner without priorwritten consent from M. NURHAD BAROKAH.
 
 using System;
 
