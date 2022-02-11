@@ -5,11 +5,11 @@
   </PropertyGroup>
   
 	<PropertyGroup>
-	  <CodeAnalysisRuleSet>StyleCopConfig\StyleCop.ruleset</CodeAnalysisRuleSet>
+	  <CodeAnalysisRuleSet>StyleCop.ruleset</CodeAnalysisRuleSet>
 	</PropertyGroup>
 
   <ItemGroup>
-	  <AdditionalFiles Include="StyleCopConfig\stylecop.json" Link="stylecop.json" />
+	  <AdditionalFiles Include="stylecop.json" Link="stylecop.json" />
 	</ItemGroup>
 
   <ItemGroup>

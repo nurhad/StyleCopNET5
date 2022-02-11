@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+      "documentationRules": {
+        "copyrightText": "This source code ({fileName}) is Copyright © {companyName}.\r\nYou MAY NOT copied, reproduced, published, distributed or transmitted\r\nto or stored in any manner without priorwritten consent from {companyName}.",
+        "companyName": "M. NURHAD BAROKAH",
+        "xmlHeader": false,
+        "documentExposedElements": false,
+        "fileNamingConvention": "metadata"
+      },
+      "layoutRules": {
+        "newlineAtEndOfFile": "omit"
+      },
+      "indentation": {
+        "indentationSize": 4,
+        "useTabs": false
+      },
+      "namingRules": {},
+      "orderingRules": {
+        "systemUsingDirectivesFirst": false,
+        "usingDirectivesPlacement": "outsideNamespace",
+        "elementOrder": [
+          "kind",
+          "constant",
+          "accessibility",
+          "static",
+          "readonly"
+        ]
+      }
+    }
+  }

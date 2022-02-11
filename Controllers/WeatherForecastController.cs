@@ -1,12 +1,13 @@
-﻿// Copyright (c) Muhammad Nurhad Barokah, Pte Ltd. All Rights Reserved.
-// Licensed under the MIT License. See LICENSE in the project root for license information.
+﻿// This source code (WeatherForecastController.cs) is Copyright © M. NURHAD BAROKAH Pte, Ltd..
+// You MAY NOT copied, reproduced, published, distributed or transmitted
+// to or stored in any manner without priorwritten consent from M. NURHAD BAROKAH Pte, Ltd..
 
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace StyleCopNET5.Controllers
 {
