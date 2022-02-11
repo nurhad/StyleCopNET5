@@ -1,3 +1,6 @@
+// Copyright (c) Muhammad Nurhad Barokah, Pte Ltd. All Rights Reserved.
+// Licensed under the MIT License. See LICENSE in the project root for license information.
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +29,6 @@ namespace StyleCopNET5
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
